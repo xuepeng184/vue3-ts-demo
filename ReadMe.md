@@ -25,8 +25,13 @@ npm run serve
 
 
 ## 界面
+![image](https://user-images.githubusercontent.com/73777958/183030884-ae1f5288-95bf-4b52-972b-08930ee0d7fe.png)
 
-![image](https://user-images.githubusercontent.com/73777958/183030721-9bd9f7a2-95cc-4319-850a-db1ddeb16947.png)
+![image](https://user-images.githubusercontent.com/73777958/183030928-bb016ac9-99fc-4136-9f45-237ed6c30424.png)
+![image](https://user-images.githubusercontent.com/73777958/183030953-128d2c00-8906-464f-a211-bcb68d3ad741.png)
+![image](https://user-images.githubusercontent.com/73777958/183030983-34d0394a-f4f4-4e75-af3c-574b510d6693.png)
+![image](https://user-images.githubusercontent.com/73777958/183031040-5855b602-8b43-45b1-a15e-040fb3d2b57f.png)
+
 
 账号密码暂时没有调用数据库进行检验，只需在`3-10`位长度即可
 
