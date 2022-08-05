@@ -26,17 +26,10 @@ npm run serve
 
 ## 界面
 
-![image-20220805152656757](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20220805152656757.png)
+![image](https://user-images.githubusercontent.com/73777958/183030721-9bd9f7a2-95cc-4319-850a-db1ddeb16947.png)
 
 账号密码暂时没有调用数据库进行检验，只需在`3-10`位长度即可
 
-![image-20220805152924109](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20220805152924109.png)
-
-![image-20220805152935026](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20220805152935026.png)
-
-![image-20220805152943603](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20220805152943603.png)
-
-![image-20220805153017408](C:\Users\86135\AppData\Roaming\Typora\typora-user-images\image-20220805153017408.png)
 
 
 
